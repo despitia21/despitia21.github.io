@@ -8,3 +8,13 @@ body {
   color: gray;
   padding: 40px;
 }
+
+.resume-link {
+  text-decoration: none;
+  border-color: gray;
+  border-width: 1px;
+  border-style: solid;
+  padding: 7px;
+  border-radius: 3px;
+  color: gray;
+}
