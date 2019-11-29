@@ -9,6 +9,10 @@ body {
   padding: 40px;
 }
 
+.links-container {
+  margin-top: 2rem;
+}
+
 .resume-link {
   text-decoration: none;
   border-color: gray;
